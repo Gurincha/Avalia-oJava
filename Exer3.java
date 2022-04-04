@@ -17,8 +17,3 @@ public class Exer3 {
 
     }
 }
-//Sacos de grãos de soja (60 kg).
-//Arrobas de boi gordo (15 kg).
-//Sacos de açúcar cristal (50 kg), etc.
-//Saca de café (60 kg), etc.
-//Saca de Milho (60 kg), etc.
